@@ -3,7 +3,7 @@ Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized l
 
 You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary towards the end. I'd like to concentrate more on the open source bit, however there are so many enterprise solutions I'd like to list them for public knowledge. 
 
-Feel free to contribute :grin:, so don't hesitate to represent :punch:.
+Don't hesitate to represent :punch:.
 
 ## JavaScript
 JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
