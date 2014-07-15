@@ -188,6 +188,8 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Demo: http://www.sitecore.net/Demonstration/Demonstration-Request.aspx?sc_trk=SIOP%20XC%20Demo%20Button%20Home%20Page
 * License: Proprietary
 
+---
+
 ## Contributions
 There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
 
