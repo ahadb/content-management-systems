@@ -5,6 +5,30 @@ You'll find the Open Source CMS's in the beginning of the list and the enterpris
 
 Feel free to contribute :grin:, so don't hesitate to represent :punch:.
 
+## JavaScript
+JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
+
+[More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Keystone JS
+
+> Node.js CMS and web application platform built on Express and MongoDB.
+
+* Platform: JavaScript
+* DB: Mongoose http://mongoosejs.com/docs/guide.html
+* Site: http://keystonejs.com/
+* Examples: http://demo.keystonejs.com/
+* License: Open Source
+
+#### FlexCarver
+
+> Node.js CMS and web application platform built on Express and MongoDB.
+
+* Platform: JavaScript
+* DB: Zend DB
+* Site: http://www.flexcarver.net/en/home.html
+* License: Open Source
+
 ## PHP 
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
 
