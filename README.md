@@ -1,7 +1,5 @@
 # Content Management Systems
-Open Source & Proprietary Content Management Systems (CMS)
-
-An organized list of open source &amp; proprietary content management systems used in a collobarative environment.
+Open Source & Proprietary Content Management Systems (CMS). An organized list of open source &amp; proprietary content management systems used in a collobarative environment organized by language. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
 
 
 ## PHP 
