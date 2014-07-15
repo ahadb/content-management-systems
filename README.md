@@ -3,11 +3,9 @@ Open Source & Proprietary Content Management Systems (CMS). An organized list of
 
 
 ## PHP 
-PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers.[4] Originally created by Rasmus Lerdorf in 1994,[5] the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group.[6] While PHP originally stood for Personal Home Page,[5] it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.[7]
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers.[4] Originally created by Rasmus Lerdorf in 1994,[5] the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group.[6] While PHP originally stood for Personal Home Page,[5] it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
 
-PHP code can be simply mixed with HTML code, or it can be used in combination with various templating engines and web frameworks. PHP code is usually processed by a PHP interpreter, which is usually implemented as a web server's native module or a Common Gateway Interface (CGI) executable. After the PHP code is interpreted and executed, the web server sends resulting output to its client, usually in form of a part of the generated web page – for example, PHP code can generate a web page's HTML code, an image, or some other data. PHP has also evolved to include a command-line interface (CLI) capability and can be used in standalone graphical applications.[8]
-
-PHP is free software released under the PHP License. PHP has been widely ported and can be deployed on most web servers on almost every operating system and platform, free of charge.[9]
+[More](https://php.net/)
 
 #### Adapt CMS
 
@@ -91,3 +89,55 @@ PHP is free software released under the PHP License. PHP has been widely ported 
 * Site: https://www.phpnuke.org/
 * Demo: https://downloads.phpnuke.org/
 * License: GPL
+
+## ASP.NET
+ASP.NET is an open source[1] server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
+
+It was first released in January 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
+
+[More](http://www.asp.net/)
+
+#### DotNetNuke
+
+> DotNetNuke was written in VB.NET, though the developer has shifted to C# since version 6.0.[4] It is distributed under both a Community Edition MIT license [3] and commercial proprietary licenses as the Professional and Enterprise Editions.
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://www.dnnsoftware.com/
+* Demo: http://www.dnnsoftware.com/evoq-content-free-trial
+* License: MIT
+
+#### SharePoint 
+
+> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://office.microsoft.com/en-us/sharepoint/
+* Demo: ?
+* License: Proprietary
+
+#### Sitecore
+
+> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://www.sitecore.net/
+* Request Demo: http://www.sitecore.net/#
+* License: Proprietary
+
+## JAVA
+Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another. Java applications are typically compiled to bytecode (class file) that can run on any Java virtual machine (JVM) regardless of computer architecture
+
+[More](http://www.oracle.com/technetwork/java/index.html)
+
+#### eXo Platform
+
+> eXo Platform is an open source, standard-based, Enterprise Social Platform[1] written in Java and distributed under the GNU Lesser General Public License.
+
+* Platform: PHP
+* DB: HSQLDB, MySQL, Oracle, SQL Server, DB2, Apache Derby, PostgreSQL, Sybase
+* Site: http://www.exoplatform.com/
+* Demo: http://www.exoplatform.com/#learnmore
+* License: LGPL
