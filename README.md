@@ -1,4 +1,4 @@
-# H1
+# Content Management Systems
 Open Source & Proprietary Content Management Systems (CMS)
 
 An organized list of open source &amp; proprietary content management systems used in a collobarative environment.
@@ -8,6 +8,6 @@ An organized list of open source &amp; proprietary content management systems us
 
 | Name          	|  Platform        | Cool  	       |
 |:------------------|:----------------:| -------------:|
-| col 3 is      	| right-aligned    | $1600 		   |
+| AdaptCMS      	| right-aligned    | $1600 		   |
 | col 2 is      	| centered         |   $12 		   |
 | zebra stripes 	| are neat         |    $1 		   |
