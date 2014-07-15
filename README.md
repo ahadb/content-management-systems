@@ -12,5 +12,5 @@ An organized list of open source &amp; proprietary content management systems us
 
 * Platform: PHP
 * DB: MySQL
-* Site: (http://www.adaptcms.com/)
-* Demo: (http://www.adaptcms.com/demo)
+* Site: http://www.adaptcms.com/
+* Demo: http://www.adaptcms.com/demo
