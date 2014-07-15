@@ -14,3 +14,4 @@ An organized list of open source &amp; proprietary content management systems us
 * DB: MySQL
 * Site: http://www.adaptcms.com/
 * Demo: http://www.adaptcms.com/demo
+* License: BSD
