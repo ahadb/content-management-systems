@@ -54,10 +54,37 @@ An organized list of open source &amp; proprietary content management systems us
 * License: GPL
 
 #### Mambo
-> Drupal is an open source content management platform powering millions of websites and applications. It’s built, used, and supported by an active and diverse community of people around the world.
+> Mambo (formerly named Mambo Open Source or MOS) was a free software/open source content management system (CMS) for creating and managing websites through a simple web interface. Its last release was in 2008, by which time all of the developers had left for forks of the project, mainly Joomla and MiaCMS.
 
 * Platform: PHP
 * DB: 	MySQL
 * Site: http://www.mamboserver.com/
 * Demo: http://www.mamboserver.com/content/view/35/116/
+* License: GPL
+
+#### MODX
+> MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.
+
+* Platform: PHP
+* DB: 	MySQL
+* Site: http://modx.com/
+* Demo: ??
+* License: GPL
+
+#### Moodle
+> The world's free learning platform that helps you create effective online teaching and learning experiences in a collaborative, private environment.
+
+* Platform: PHP
+* DB: 	MySQL, Postgres, MSSQL, or Oracle
+* Site: https://moodle.org/
+* Demo: https://moodle.org/demo
+* License: GPLv3+
+
+#### PHP-Nuke
+> PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL originally written by Francisco Burzi. The system is controlled using a web-based user interface. PHP-Nuke was originally a fork of the Thatware news portal system.
+
+* Platform: PHP
+* DB: 	MySQL
+* Site: https://www.phpnuke.org/
+* Demo: https://downloads.phpnuke.org/
 * License: GPL
