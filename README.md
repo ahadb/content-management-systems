@@ -89,7 +89,7 @@ PHP is a server-side scripting language designed for web development but also us
 * Demo: https://downloads.phpnuke.org/
 * License: GPL
 
-## JAVA
+## Java
 Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another. Java applications are typically compiled to bytecode (class file) that can run on any Java virtual machine (JVM) regardless of computer architecture
 
 [More](http://www.oracle.com/technetwork/java/index.html)
@@ -114,12 +114,7 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Demo: 
 * License: Apache License
 
-## PROPRIETARY CONTENT MANAGEMENT
-ASP.NET is an open source server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
-
-It was first released in January 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
-
-[More](http://www.asp.net/)
+## Proprietary & Enterprise Content Management
 
 #### DotNetNuke
 
@@ -143,11 +138,49 @@ It was first released in January 2002 with version 1.0 of the .NET Framework, an
 
 #### Sitecore
 
-> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
+> Sitecore is a web content management system and customer experience management software company that provides enterprise website, intranet, portal and marketing automation software. The company was founded in 2001 and has offices in Australia, Denmark, Sweden, Canada, Germany, Japan, Netherlands, New Zealand, United Kingdom, Ukraine, and United States.
 
 * Platform: ASP.NET
 * DB: SQL Server
 * Site: http://www.sitecore.net/
 * Request Demo: http://www.sitecore.net/#
+* License: Proprietary
+
+#### OpenText ECM Suite
+
+> OpenText software applications manage content or unstructured data for most types of governance, efficiency and monetization requirements in large companies, government agencies and professional service firms. OpenText solutions are aimed at addressing information management requirements, including the management of large volumes of content compliance with regulatory requirements, and mobile and online experience management.
+
+* Platform: .NET, JAVA
+* DB: SQL Server (2000, 2005 or 2008), Oracle
+* Site: http://www.opentext.com/
+* Support: http://www.opentext.com/support
+* License: Proprietary, ECM
+
+#### Cloud CMS
+
+> Cloud CMS provides Easy Content Management for data-driven Mobile and Web Applications. Our suite of applications and tools lets you create once and publish everywhere. Faster, leaner and less expensive.
+
+* Platform: Java
+* DB: SQL Server (2000, 2005 or 2008), Oracle
+* Site: https://www.cloudcms.com/
+* Demo: https://www.cloudcms.com/tour/resources/videos
+* License: GPL, Apache 2.0
+
+#### Sitefinity
+> The leading Cloud Content Management System for creating, managing and publishing amazing content to mobile and web apps.
+
+* Platform: .NET
+* DB: ??
+* Site: http://www.sitefinity.com/
+* Demo: http://www.sitefinity.com/try-now
+* License: Commercial, On-Premise, Proprietary
+
+#### Sitecore
+> Delivering unparalleled ease of use, total flexibility, and enterprise-grade capabilities, Sitecore CMS is the platform of choice for leading companies around the world, powering more than 32,000 websites.
+
+* Platform: .NET
+* DB: ??
+* Site: http://www.sitecore.net/ry-now
+* Demo: http://www.sitecore.net/Demonstration/Demonstration-Request.aspx?sc_trk=SIOP%20XC%20Demo%20Button%20Home%20Page
 * License: Proprietary
 
