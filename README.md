@@ -1,43 +1,6 @@
 # Content Management Systems
 Open Source & Proprietary Content Management Systems (CMS). An organized list of open source &amp; proprietary content management systems used in a collobarative environment organized by language. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
 
-## ASP.NET
-ASP.NET is an open source server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
-
-It was first released in January 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
-
-[More](http://www.asp.net/)
-
-#### DotNetNuke
-
-> DotNetNuke was written in VB.NET, though the developer has shifted to C# since version 6.0.[4] It is distributed under both a Community Edition MIT license [3] and commercial proprietary licenses as the Professional and Enterprise Editions.
-
-* Platform: ASP.NET
-* DB: SQL Server
-* Site: http://www.dnnsoftware.com/
-* Demo: http://www.dnnsoftware.com/evoq-content-free-trial
-* License: MIT
-
-#### SharePoint 
-
-> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
-
-* Platform: ASP.NET
-* DB: SQL Server
-* Site: http://office.microsoft.com/en-us/sharepoint/
-* Demo: ?
-* License: Proprietary
-
-#### Sitecore
-
-> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
-
-* Platform: ASP.NET
-* DB: SQL Server
-* Site: http://www.sitecore.net/
-* Request Demo: http://www.sitecore.net/#
-* License: Proprietary
-
 ## PHP 
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
 
@@ -150,4 +113,41 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Site: http://fedora-commons.org/
 * Demo: 
 * License: Apache License
+
+## PROPRIETARY CONTENT MANAGEMENT
+ASP.NET is an open source server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
+
+It was first released in January 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
+
+[More](http://www.asp.net/)
+
+#### DotNetNuke
+
+> DotNetNuke was written in VB.NET, though the developer has shifted to C# since version 6.0.[4] It is distributed under both a Community Edition MIT license [3] and commercial proprietary licenses as the Professional and Enterprise Editions.
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://www.dnnsoftware.com/
+* Demo: http://www.dnnsoftware.com/evoq-content-free-trial
+* License: MIT
+
+#### SharePoint 
+
+> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://office.microsoft.com/en-us/sharepoint/
+* Demo: ?
+* License: Proprietary
+
+#### Sitecore
+
+> Microsoft SharePoint is a web application framework and platform developed by Microsoft. First launched in 2001,[3] SharePoint integrates intranet, content management and document management, but recent versions have broader capabilities.[4]
+
+* Platform: ASP.NET
+* DB: SQL Server
+* Site: http://www.sitecore.net/
+* Request Demo: http://www.sitecore.net/#
+* License: Proprietary
 
