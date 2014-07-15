@@ -1,9 +1,6 @@
 # Content Management Systems
 Open Source & Proprietary Content Management Systems (CMS). An organized list of open source &amp; proprietary content management systems used in a collobarative environment organized by language. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
 ## PHP 
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers.[4] Originally created by Rasmus Lerdorf in 1994,[5] the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group.[6] While PHP originally stood for Personal Home Page,[5] it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
 
@@ -93,7 +90,7 @@ PHP is a server-side scripting language designed for web development but also us
 * License: GPL
 
 ## ASP.NET
-ASP.NET is an open source[1] server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
+ASP.NET is an open source server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
 
 It was first released in January 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
 
