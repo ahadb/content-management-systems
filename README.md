@@ -1,5 +1,9 @@
 # Content Management Systems
-Open Source & Proprietary Content Management Systems (CMS). An organized list of open source &amp; proprietary content management systems used in a collobarative environment organized by language. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
+Open Source & Proprietary Content Management Systems (CMS). An organized list of open source &amp; proprietary content management systems used in a collobarative environment organized by language. 
+
+No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
+
+You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary towards the end.
 
 ## PHP 
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
@@ -183,4 +187,9 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Site: http://www.sitecore.net/ry-now
 * Demo: http://www.sitecore.net/Demonstration/Demonstration-Request.aspx?sc_trk=SIOP%20XC%20Demo%20Button%20Home%20Page
 * License: Proprietary
+
+## Contributions
+There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
+
+
 
