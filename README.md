@@ -1,5 +1,5 @@
 # Content Management Systems
-Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary and blogging systems towards the end. 
+Open Source, ECM & Proprietary, blogging, cloud, hosted and more CMS - a semi organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). There is a huge world of CMS's out there so please be patient while I work on this list and it grows - i hope to add some value to you.
 
 Don't hesitate to represent :punch:.
 
