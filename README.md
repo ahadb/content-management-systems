@@ -1,7 +1,7 @@
 # Content Management Systems
-Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary and blogging systems towards the end. 
+Open Source, ECM & Proprietary, Self, Cloud, Bloggig and more CMSs' - a semi organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). The CMS world is immense with many different categories and types of software.
 
-Don't hesitate to represent :punch:.
+Feel free to contrib - don't hesitate to represent :punch:.
 
 ## Python
 Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
@@ -33,6 +33,15 @@ Python can be easy to pick up whether you're a first time programmer or you're e
 JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
 
 [More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Ghost
+
+> Ghost is a simple, powerful publishing platform that allows you to share your story with the world.
+
+* Platform: JavaScript
+* DB: Mongoose MySQL
+* Site: https://ghost.org/
+* License: GPL
 
 #### Keystone JS
 
@@ -75,6 +84,14 @@ PHP is a server-side scripting language designed for web development but also us
 * DB: MySQL
 * Site: http://b2evolution.net/
 * Demo: http://b2evolution.net/demo
+* License: GPL
+
+#### Wordpress
+> WordPress is web software you can use to create a beautiful website or blog. We like to say that WordPress is both free and priceless at the same time.
+
+* Platform: PHP
+* DB: MySQL
+* Site: http://wordpress.org/
 * License: GPL
 
 #### Concrete5
@@ -236,7 +253,9 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Demo: http://www.sitecore.net/Demonstration/Demonstration-Request.aspx?sc_trk=SIOP%20XC%20Demo%20Button%20Home%20Page
 * License: Proprietary
 
-## Hosted CMS Systems
+## Cloud / Hosted / CMS Systems
+
+Many of the listed sites below are also SaaS based CMS's.
 
 [More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -252,7 +271,7 @@ Java is a computer programming language that is concurrent, class-based, object-
 
 #### TypePad
 
-> Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+> Publish quickly and easily from your computer, mobile or even via email. If you can type you can blog with Typepad!
 
 * Platform: Perl
 * DB: MySQL
@@ -260,10 +279,27 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Help: http://help.typepad.com/
 * License: BSD
 
+#### Squarespace
+
+> Squarespace is one of the most popular website builders on the market. With an extremely easy to use interface that's sleek and "gets out of your way", they are definitely a top contender. 
+ 
+* Site: http://www.squarespace.com/
+* License: http://www.squarespace.com/terms-of-service/
+
+#### LightCMS
+
+> LightCMS is a website system wich allows you to have a website ready in just a few clicks. It uses standardized code, a vast array of tools which fit right into their suite such as eCommerce, Blogs, Statistics, etc., and all the capabilities are enabled on the free plan.
+
+* Site: http://www.lightcms.com/
+
+#### CushyCMS
+
+> Using CushyCMS, web designers can give content editors (for example a client) access to part, full or many pages at a granular level (headings, images, sidebars, etc), enabling them to update or create standards-compliant content directly from a browser without messing with the sites coding. - See more at: http://www.crunchbase.com/product/cushycms#sthash.7q0QRqrB.dpuf
+
+* Site: http://www.cushycms.com
+
 
 ---
 
 ## Contributions
 There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
-
-
