@@ -1,12 +1,36 @@
 # Content Management Systems
-Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms).
-
-You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary towards the end. I'd like to concentrate more on the open source bit, however there are so many enterprise solutions I'd like to list them for public knowledge. 
+Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary and blogging systems towards the end. 
 
 Don't hesitate to represent :punch:.
 
+## Python
+Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
+
+[More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Plone
+
+> Plone is a free and open source content management system built on top of the Zope application server. In principle, Plone can be used for any kind of website, including blogs, internet sites, webshops and internal websites. It is also well positioned to be used as a document publishing system and groupware collaboration tool. The strengths of Plone are its flexible and adaptable workflow, very good security, extensibility, high usability and flexibility.
+
+* Platform: Python
+* DB: MySQL
+* Site: http://plone.org/
+* Download: http://plone.org/products
+* License: GPL
+* 
+#### Django
+
+> Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
+* Platform: Python
+* DB: MySQL, SQLite, PostgreSQL, Oracle
+* Site: https://www.django-cms.org/en/
+* Docs: http://docs.django-cms.org/en/3.0.1/
+* License: BSD
+
+
 ## JavaScript
-JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
+JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
 
 [More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -212,10 +236,34 @@ Java is a computer programming language that is concurrent, class-based, object-
 * Demo: http://www.sitecore.net/Demonstration/Demonstration-Request.aspx?sc_trk=SIOP%20XC%20Demo%20Button%20Home%20Page
 * License: Proprietary
 
+## Hosted CMS Systems
+
+[More](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Movable Type
+
+> Movable Type is Six Apart's flagship blog software product, launched in 2001. Today, this robust social publishing platform powers some of the websites and blogs of the world's largest media companies and Fortune 100 businesses, small and medium sized businesses, and power bloggers. 
+
+* Platform: Perl
+* DB: MySQL, SQLite, PostgreSQL, Oracle
+* Site: http://www.movabletype.com/
+* More: https://movabletype.org/
+* License: GPL
+
+#### TypePad
+
+> Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
+* Platform: Perl
+* DB: MySQL
+* Site: http://www.typepad.com/
+* Help: http://help.typepad.com/
+* License: BSD
+
+
 ---
 
 ## Contributions
 There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
-
 
 
