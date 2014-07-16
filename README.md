@@ -1,7 +1,7 @@
 # Content Management Systems
-Open Source, ECM & Proprietary, Self, Cloud, Bloggig and more CMSs' - a semi organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). The CMS world is immense with many different categories and types of software, so please be patient as this list grows.
+Open Source, ECM & Proprietary Content Management Systems (CMS) - an organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). You'll find the Open Source CMS's in the beginning of the list and the enterprise and proprietary and blogging systems towards the end. 
 
-Feel free to contrib - don't hesitate to represent :punch:.
+Don't hesitate to represent :punch:.
 
 ## Python
 Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
@@ -61,6 +61,22 @@ JavaScript (JS) is a dynamic computer programming language. It is most commonly 
 * DB: Zend DB
 * Site: http://www.flexcarver.net/en/home.html
 * License: Open Source
+
+#### Calypso
+
+> Calipso is a content management system (CMS), based on the NodeJS server. Due to the asynchronous nature of NodeJS, it seemed like a good idea to try to build a CMS made up of modules that could execute asynchronously in a non-blocking way.
+
+* Platform: JavaScript / Node.js
+* Site: https://github.com/cliftonc/calipso
+
+#### Apostrophe
+
+> Apostrophe is an open source CMS designed for maximum flexibility with a minimal learning curve.
+
+* Platform: JavaScript / Node.js
+* Site: http://apostrophenow.org/
+* HowTo's: http://apostrophenow.org/howtos/index.html
+* Demo: http://demo2.apostrophenow.com/
 
 ## PHP 
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, which is a recursive acronym.
@@ -298,8 +314,11 @@ Many of the listed sites below are also SaaS based CMS's.
 
 * Site: http://www.cushycms.com
 
+## Hosted / Blogging
+
+Coming .... Several great content management systems here as well: PostHaven, SilvrBack, Svbtle, Postach.io, Wardrobe, Anchor. 
 
 ---
 
 ## Contributions
-There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions, comments and suggestions are more than welcome; send me a pull request and help grow this list!
+There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
