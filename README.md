@@ -316,7 +316,37 @@ Many of the listed sites below are also SaaS based CMS's.
 
 ## Hosted / Blogging
 
-Coming .... Several great content management systems here as well: PostHaven, SilvrBack, Svbtle, Postach.io, Wardrobe, Anchor. 
+Simple content management systems built just for blogging - premium included.
+
+#### Pistach.io
+
+> The easiest way to blog. Share beautifully using Evernote and Dropbox.
+
+* Site: http://postach.io/
+
+#### Svbtle
+
+> The extremely simple place to blog
+
+* Site: https://svbtle.com/
+
+#### Authpad
+
+> Authpad is a frictionless approach to blogging.
+
+* Site: http://authpad.com/
+
+#### Wardrobe
+
+> Wardrobe is a minimalistic blogging application. Wardrobe attempts to make blogging simple and enjoyable by utilizing the latest technologies and keeping the administration as simple as possible with the primary focus on writing.
+
+* Site: http://wardrobecms.com/
+
+#### Posthaven
+
+> What would it be like to make a service that lasts for 10 years? 100 years? That’s what we’re trying to build at Posthaven. We’re as sick as you are to have to switch services every few years, or worry about running your own servers and getting hacked all the time.
+
+* Site: https://posthaven.com/
 
 ---
 
