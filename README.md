@@ -348,6 +348,12 @@ Simple content management systems built just for blogging - premium included.
 
 * Site: https://posthaven.com/
 
+#### AnchorCMS
+
+> Anchor is a super-simple, lightweight blog system, made to let you just write.
+
+* Site: http://anchorcms.com/
+
 ---
 
 ## Contributions
