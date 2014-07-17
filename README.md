@@ -1,5 +1,5 @@
 # Content Management Systems
-Open Source, ECM & Proprietary, blogging, cloud, hosted and more CMS - a semi organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). There is a huge world of CMS's out there so please be patient while I work on this list and it grows - i hope to add some value to you.
+Open Source, ECM & Proprietary, blogging, cloud, hosted and more CMS - a semi organized list. No flat-file CMS's listed here, please check that [specific repository](https://github.com/ahadb/flat-file-cms). 
 
 Don't hesitate to represent :punch:.
 
@@ -321,4 +321,4 @@ Coming .... Several great content management systems here as well: PostHaven, Si
 ---
 
 ## Contributions
-There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Contributions are more than welcome, send me a pull request and help grow this list!
+There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Please be patient, contributions are more than welcome so send me a pull request and help grow this list!
