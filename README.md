@@ -3,6 +3,31 @@ Open Source, ECM & Proprietary, blogging, cloud, hosted and more CMS - a semi or
 
 Don't hesitate to represent :punch:.
 
+## Ruby / Rails
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+[More](https://www.ruby-lang.org/en/)
+
+#### BrowserCMS
+
+> BrowserCMS combines the best of two worlds. Developers can use the highly productive Ruby on Rails framework to extend and add features. Editors can use the BrowserCMS user interface to keep content up to date.
+
+* Platform: Ruby
+* DB: SQLite, MySQL
+* Site: http://www.browsercms.org/
+* Demo: http://www.browsercms.org/documentation
+* License: LGPL
+
+#### Radiant CMS
+
+> Radiant is a no-fluff, open source content management system designed for small teams.
+
+* Platform: Ruby
+* DB: SQLite, MySQL
+* Site: http://radiantcms.org/
+* Demo: http://radiantcms.org/demo/
+* License: GPL
+
 ## Python
 Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
 
@@ -17,7 +42,7 @@ Python can be easy to pick up whether you're a first time programmer or you're e
 * Site: http://plone.org/
 * Download: http://plone.org/products
 * License: GPL
-* 
+
 #### Django
 
 > Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
@@ -178,6 +203,15 @@ PHP is a server-side scripting language designed for web development but also us
 Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another. Java applications are typically compiled to bytecode (class file) that can run on any Java virtual machine (JVM) regardless of computer architecture
 
 [More](http://www.oracle.com/technetwork/java/index.html)
+
+#### Alfresco
+
+> eXo Platform is an open source, standard-based, Enterprise Social Platform[1] written in Java and distributed under the GNU Lesser General Public License.
+
+* Platform: Java
+* DB: Oracle, SQL Server, PostgreSQL
+* Site: http://www.alfresco.com/products/community/download
+* License: LGPL
 
 #### eXo Platform
 
