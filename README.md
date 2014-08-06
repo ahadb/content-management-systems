@@ -391,4 +391,4 @@ Simple content management systems built just for blogging - premium included.
 ---
 
 ## Contributions
-There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Please be patient, contributions are more than welcome so send me a pull request and help grow this list!
+There are many content management systems that I haven't mentioned and aim to do further organize this repo in the next couple of weeks. Please be patient, contributions are more than welcome so send me a pull request and help grow this list!!
